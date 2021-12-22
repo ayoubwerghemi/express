@@ -1,0 +1,16 @@
+{
+  "name": "ayoub",
+  "version": "1.0.0",
+  "description": "checkpoint express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-dates-middleware": "^1.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
